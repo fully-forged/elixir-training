@@ -2,3 +2,5 @@
 02-mix/sample
 03-modules-and-functions/*.ex
 03-modules-and-functions/*.beam
+04-pattern-matching/*.ex
+04-pattern-matching/*.beam
