@@ -1,2 +1,4 @@
 01-iex/*.beam
 02-mix/sample
+03-modules-and-functions/*.ex
+03-modules-and-functions/*.beam
