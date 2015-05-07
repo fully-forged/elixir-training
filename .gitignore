@@ -4,3 +4,4 @@
 03-modules-and-functions/*.beam
 04-pattern-matching/my_enumerable.exs
 04-pattern-matching/*.beam
+07-exercise/csv.exs
