@@ -5,3 +5,4 @@
 04-pattern-matching/my_enumerable.exs
 04-pattern-matching/*.beam
 07-exercise/csv.exs
+09-guards/triangle.exs
